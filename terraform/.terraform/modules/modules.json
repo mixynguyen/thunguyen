@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"sg","Source":"./module/terraform-aws-security-group","Dir":"module/terraform-aws-security-group"},{"Key":"vpc","Source":"./module/terraform-aws-vpc","Dir":"module/terraform-aws-vpc"}]}
